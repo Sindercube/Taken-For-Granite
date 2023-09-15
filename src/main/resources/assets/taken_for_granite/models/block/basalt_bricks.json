@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "taken_for_granite:block/basalt_bricks"
+  }
+}

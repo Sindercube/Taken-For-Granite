@@ -1,0 +1,18 @@
+{
+    "name": "Polished Tuff",
+    "group": "tuff",
+    "block_type": "polished",
+    "model_type": "cube",
+
+    "crafting_material": "minecraft:tuff",
+
+    "strength": 6.0,
+    "hardness": 1.5,
+    "sound": "stone",
+
+    "variants": [
+        "slab",
+        "stairs",
+        "wall"
+    ]
+}

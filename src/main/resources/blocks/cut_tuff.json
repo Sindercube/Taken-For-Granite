@@ -1,0 +1,20 @@
+{
+    "name": "Cut Tuff",
+    "group": "tuff",
+    "block_type": "cut",
+    "model_type": "cube",
+
+    "crafting_material": "taken_for_granite:polished_tuff",
+    "stonecutting_materials": [
+        "minecraft:tuff"
+    ],
+
+    "strength": 6.0,
+    "hardness": 1.5,
+    "sound": "stone",
+
+    "variants": [
+        "slab",
+        "stairs"
+    ]
+}
