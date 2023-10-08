@@ -1,0 +1,20 @@
+{
+    "name": "Cut Basalt",
+    "group": "basalt",
+    "type": "cut",
+    "model": "cut",
+    "crafting_material": "taken_for_granite:polished_basalt",
+    "strength": 4.2,
+    "hardness": 1.25,
+    "sound": "basalt",
+    "variants": [
+        {
+            "id": "taken_for_granite:cut_basalt_stairs",
+            "type": "stairs"
+        },
+        {
+            "id": "taken_for_granite:cut_basalt_slab",
+            "type": "slab"
+        }
+    ]
+}

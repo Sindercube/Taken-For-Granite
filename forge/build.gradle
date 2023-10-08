@@ -1,0 +1,28 @@
+architectury {
+    platformSetupLoomIde()
+    forge()
+}
+
+base {
+    archivesName = "${mod_id}-forge-${mod_version}"
+}
+
+loom {
+    forge {
+        mixinConfig "${mod_id}.mixins.json"
+        mixinConfig "${mod_id}-forge.mixins.json"
+    }
+}
+
+dependencies {
+    forge "net.minecraftforge:forge:${minecraft_version}-${forge_version}"
+    implementation project(":common")
+}
+
+tasks.withType(JavaCompile).configureEach {
+    source(project(":common").sourceSets.main.allSource)
+}
+
+processResources {
+    from project(":common").sourceSets.main.resources
+}

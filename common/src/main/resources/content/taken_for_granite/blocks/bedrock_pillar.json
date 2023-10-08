@@ -1,0 +1,10 @@
+{
+    "name": "Bedrock Pillar",
+    "group": "bedrock",
+    "type": "pillar",
+    "model": "pillar",
+    "crafting_material": "taken_for_granite:polished_bedrock",
+    "strength": 3600000,
+    "hardness": -1,
+    "sound": "stone"
+}

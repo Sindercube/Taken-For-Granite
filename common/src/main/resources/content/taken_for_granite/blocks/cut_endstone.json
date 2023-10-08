@@ -1,0 +1,20 @@
+{
+    "name": "Cut Endstone",
+    "group": "endstone",
+    "type": "cut",
+    "model": "cut",
+    "crafting_material": "taken_for_granite:polished_endstone",
+    "strength": 9,
+    "hardness": 3,
+    "sound": "stone",
+    "variants": [
+        {
+            "id": "taken_for_granite:cut_endstone_stairs",
+            "type": "stairs"
+        },
+        {
+            "id": "taken_for_granite:cut_endstone_slab",
+            "type": "slab"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Smooth Andesite",
+    "group": "andesite",
+    "type": "smooth",
+    "model": "smooth",
+    "crafting_material": "minecraft:andesite",
+    "strength": 6,
+    "hardness": 1.5,
+    "sound": "stone"
+}

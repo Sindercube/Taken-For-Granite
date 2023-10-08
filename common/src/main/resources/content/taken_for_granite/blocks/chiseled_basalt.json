@@ -1,0 +1,10 @@
+{
+    "name": "Chiseled Basalt",
+    "group": "basalt",
+    "type": "chiseled",
+    "model": "chiseled",
+    "crafting_material": "taken_for_granite:polished_basalt_slab",
+    "strength": 4.2,
+    "hardness": 1.25,
+    "sound": "basalt"
+}

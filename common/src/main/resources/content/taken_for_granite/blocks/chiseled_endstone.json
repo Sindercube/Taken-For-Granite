@@ -1,0 +1,10 @@
+{
+    "name": "Chiseled Endstone",
+    "group": "endstone",
+    "type": "chiseled",
+    "model": "chiseled",
+    "crafting_material": "taken_for_granite:polished_endstone_slab",
+    "strength": 9,
+    "hardness": 3,
+    "sound": "stone"
+}

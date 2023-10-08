@@ -1,0 +1,28 @@
+{
+    "name": "Quartz Bricks",
+    "group": "quartz",
+    "type": "bricks",
+    "model": "bricks",
+    "crafting_material": "taken_for_granite:polished_quartz",
+    "strength": 0.8,
+    "hardness": 0.8,
+    "sound": "stone",
+    "variants": [
+        {
+            "id": "taken_for_granite:cracked_quartz_bricks",
+            "type": "cracked"
+        },
+        {
+            "id": "taken_for_granite:quartz_brick_stairs",
+            "type": "stairs"
+        },
+        {
+            "id": "taken_for_granite:quartz_brick_slab",
+            "type": "slab"
+        },
+        {
+            "id": "taken_for_granite:quartz_brick_wall",
+            "type": "wall"
+        }
+    ]
+}

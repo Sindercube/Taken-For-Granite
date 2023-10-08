@@ -1,0 +1,24 @@
+{
+    "name": "Polished Stone",
+    "group": "stone",
+    "type": "polished",
+    "model": "polished",
+    "crafting_material": "minecraft:stone",
+    "strength": 6,
+    "hardness": 1.5,
+    "sound": "stone",
+    "variants": [
+        {
+            "id": "taken_for_granite:polished_stone_stairs",
+            "type": "stairs"
+        },
+        {
+            "id": "taken_for_granite:polished_stone_slab",
+            "type": "slab"
+        },
+        {
+            "id": "taken_for_granite:polished_stone_wall",
+            "type": "wall"
+        }
+    ]
+}

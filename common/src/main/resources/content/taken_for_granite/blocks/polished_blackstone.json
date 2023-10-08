@@ -1,0 +1,24 @@
+{
+    "name": "Polished Blackstone",
+    "group": "blackstone",
+    "type": "polished",
+    "model": "polished",
+    "crafting_material": "minecraft:blackstone",
+    "strength": 6,
+    "hardness": 1.5,
+    "sound": "stone",
+    "variants": [
+        {
+            "id": "taken_for_granite:polished_blackstone_stairs",
+            "type": "stairs"
+        },
+        {
+            "id": "taken_for_granite:polished_blackstone_slab",
+            "type": "slab"
+        },
+        {
+            "id": "taken_for_granite:polished_blackstone_wall",
+            "type": "wall"
+        }
+    ]
+}

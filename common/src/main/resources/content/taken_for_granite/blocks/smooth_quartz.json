@@ -1,0 +1,10 @@
+{
+    "name": "Smooth Quartz",
+    "group": "quartz",
+    "type": "smooth",
+    "model": "smooth",
+    "crafting_material": "minecraft:quartz",
+    "strength": 0.8,
+    "hardness": 0.8,
+    "sound": "stone"
+}

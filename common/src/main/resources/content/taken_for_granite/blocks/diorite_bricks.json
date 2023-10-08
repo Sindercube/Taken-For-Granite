@@ -1,0 +1,28 @@
+{
+    "name": "Diorite Bricks",
+    "group": "diorite",
+    "type": "bricks",
+    "model": "bricks",
+    "crafting_material": "taken_for_granite:polished_diorite",
+    "strength": 6,
+    "hardness": 1.5,
+    "sound": "stone",
+    "variants": [
+        {
+            "id": "taken_for_granite:cracked_diorite_bricks",
+            "type": "cracked"
+        },
+        {
+            "id": "taken_for_granite:diorite_brick_stairs",
+            "type": "stairs"
+        },
+        {
+            "id": "taken_for_granite:diorite_brick_slab",
+            "type": "slab"
+        },
+        {
+            "id": "taken_for_granite:diorite_brick_wall",
+            "type": "wall"
+        }
+    ]
+}

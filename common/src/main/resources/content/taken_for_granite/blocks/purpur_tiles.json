@@ -1,0 +1,28 @@
+{
+    "name": "Purpur Tiles",
+    "group": "purpur",
+    "type": "tiles",
+    "model": "tiles",
+    "crafting_material": "taken_for_granite:purpur_bricks",
+    "strength": 6,
+    "hardness": 1.5,
+    "sound": "stone",
+    "variants": [
+        {
+            "id": "taken_for_granite:cracked_purpur_tiles",
+            "type": "cracked"
+        },
+        {
+            "id": "taken_for_granite:purpur_tiles_stairs",
+            "type": "stairs"
+        },
+        {
+            "id": "taken_for_granite:purpur_tiles_slab",
+            "type": "slab"
+        },
+        {
+            "id": "taken_for_granite:purpur_tiles_wall",
+            "type": "wall"
+        }
+    ]
+}

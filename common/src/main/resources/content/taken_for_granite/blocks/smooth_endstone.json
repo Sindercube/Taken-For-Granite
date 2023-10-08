@@ -1,0 +1,10 @@
+{
+    "name": "Smooth Endstone",
+    "group": "endstone",
+    "type": "smooth",
+    "model": "smooth",
+    "crafting_material": "minecraft:endstone",
+    "strength": 9,
+    "hardness": 3,
+    "sound": "stone"
+}

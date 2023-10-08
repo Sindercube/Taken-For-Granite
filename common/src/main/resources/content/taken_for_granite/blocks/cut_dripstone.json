@@ -1,0 +1,20 @@
+{
+    "name": "Cut Dripstone",
+    "group": "dripstone",
+    "type": "cut",
+    "model": "cut",
+    "crafting_material": "taken_for_granite:polished_dripstone",
+    "strength": 1,
+    "hardness": 1.5,
+    "sound": "dripstone_block",
+    "variants": [
+        {
+            "id": "taken_for_granite:cut_dripstone_stairs",
+            "type": "stairs"
+        },
+        {
+            "id": "taken_for_granite:cut_dripstone_slab",
+            "type": "slab"
+        }
+    ]
+}

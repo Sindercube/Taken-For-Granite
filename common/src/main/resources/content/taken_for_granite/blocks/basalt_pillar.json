@@ -1,0 +1,10 @@
+{
+    "name": "Basalt Pillar",
+    "group": "basalt",
+    "type": "pillar",
+    "model": "pillar",
+    "crafting_material": "taken_for_granite:polished_basalt",
+    "strength": 4.2,
+    "hardness": 1.25,
+    "sound": "basalt"
+}

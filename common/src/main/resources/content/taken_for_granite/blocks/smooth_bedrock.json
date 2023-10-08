@@ -1,0 +1,10 @@
+{
+    "name": "Smooth Bedrock",
+    "group": "bedrock",
+    "type": "smooth",
+    "model": "smooth",
+    "crafting_material": "minecraft:bedrock",
+    "strength": 3600000,
+    "hardness": -1,
+    "sound": "stone"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Cut Quartz",
+    "group": "quartz",
+    "type": "cut",
+    "model": "cut",
+    "crafting_material": "taken_for_granite:polished_quartz",
+    "strength": 0.8,
+    "hardness": 0.8,
+    "sound": "stone",
+    "variants": [
+        {
+            "id": "taken_for_granite:cut_quartz_stairs",
+            "type": "stairs"
+        },
+        {
+            "id": "taken_for_granite:cut_quartz_slab",
+            "type": "slab"
+        }
+    ]
+}

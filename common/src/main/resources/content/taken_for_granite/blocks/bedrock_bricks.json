@@ -1,0 +1,28 @@
+{
+    "name": "Bedrock Bricks",
+    "group": "bedrock",
+    "type": "bricks",
+    "model": "bricks",
+    "crafting_material": "taken_for_granite:polished_bedrock",
+    "strength": 3600000,
+    "hardness": -1,
+    "sound": "stone",
+    "variants": [
+        {
+            "id": "taken_for_granite:cracked_bedrock_bricks",
+            "type": "cracked"
+        },
+        {
+            "id": "taken_for_granite:bedrock_brick_stairs",
+            "type": "stairs"
+        },
+        {
+            "id": "taken_for_granite:bedrock_brick_slab",
+            "type": "slab"
+        },
+        {
+            "id": "taken_for_granite:bedrock_brick_wall",
+            "type": "wall"
+        }
+    ]
+}

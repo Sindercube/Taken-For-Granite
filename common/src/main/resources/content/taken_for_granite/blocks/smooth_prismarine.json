@@ -1,0 +1,10 @@
+{
+    "name": "Smooth Prismarine",
+    "group": "prismarine",
+    "type": "smooth",
+    "model": "smooth",
+    "crafting_material": "minecraft:prismarine",
+    "strength": 6,
+    "hardness": 1.5,
+    "sound": "stone"
+}

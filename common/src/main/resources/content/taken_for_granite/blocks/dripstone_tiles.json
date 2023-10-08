@@ -1,0 +1,28 @@
+{
+    "name": "Dripstone Tiles",
+    "group": "dripstone",
+    "type": "tiles",
+    "model": "tiles",
+    "crafting_material": "taken_for_granite:dripstone_bricks",
+    "strength": 1,
+    "hardness": 1.5,
+    "sound": "dripstone_block",
+    "variants": [
+        {
+            "id": "taken_for_granite:cracked_dripstone_tiles",
+            "type": "cracked"
+        },
+        {
+            "id": "taken_for_granite:dripstone_tiles_stairs",
+            "type": "stairs"
+        },
+        {
+            "id": "taken_for_granite:dripstone_tiles_slab",
+            "type": "slab"
+        },
+        {
+            "id": "taken_for_granite:dripstone_tiles_wall",
+            "type": "wall"
+        }
+    ]
+}

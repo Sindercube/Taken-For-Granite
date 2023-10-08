@@ -1,0 +1,10 @@
+{
+    "name": "Smooth Purpur",
+    "group": "purpur",
+    "type": "smooth",
+    "model": "smooth",
+    "crafting_material": "minecraft:purpur",
+    "strength": 6,
+    "hardness": 1.5,
+    "sound": "stone"
+}

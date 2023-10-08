@@ -1,0 +1,20 @@
+{
+    "name": "Cut Deepslate",
+    "group": "deepslate",
+    "type": "cut",
+    "model": "cut",
+    "crafting_material": "taken_for_granite:polished_deepslate",
+    "strength": 6,
+    "hardness": 3,
+    "sound": "deepslate",
+    "variants": [
+        {
+            "id": "taken_for_granite:cut_deepslate_stairs",
+            "type": "stairs"
+        },
+        {
+            "id": "taken_for_granite:cut_deepslate_slab",
+            "type": "slab"
+        }
+    ]
+}

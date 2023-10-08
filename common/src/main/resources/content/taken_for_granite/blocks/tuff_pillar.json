@@ -1,0 +1,10 @@
+{
+    "name": "Tuff Pillar",
+    "group": "tuff",
+    "type": "pillar",
+    "model": "pillar",
+    "crafting_material": "taken_for_granite:polished_tuff",
+    "strength": 6,
+    "hardness": 1.5,
+    "sound": "tuff"
+}

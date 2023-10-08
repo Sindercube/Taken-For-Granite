@@ -1,0 +1,10 @@
+{
+    "name": "Sandstone Pillar",
+    "group": "sandstone",
+    "type": "pillar",
+    "model": "pillar",
+    "crafting_material": "taken_for_granite:polished_sandstone",
+    "strength": 0.8,
+    "hardness": 0.8,
+    "sound": "stone"
+}

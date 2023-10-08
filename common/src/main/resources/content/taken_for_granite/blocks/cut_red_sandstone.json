@@ -1,0 +1,20 @@
+{
+    "name": "Cut Red Sandstone",
+    "group": "red_sandstone",
+    "type": "cut",
+    "model": "cut",
+    "crafting_material": "taken_for_granite:polished_red_sandstone",
+    "strength": 0.8,
+    "hardness": 0.8,
+    "sound": "stone",
+    "variants": [
+        {
+            "id": "taken_for_granite:cut_red_sandstone_stairs",
+            "type": "stairs"
+        },
+        {
+            "id": "taken_for_granite:cut_red_sandstone_slab",
+            "type": "slab"
+        }
+    ]
+}

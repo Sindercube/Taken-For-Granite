@@ -1,0 +1,10 @@
+{
+    "name": "Smooth Tuff",
+    "group": "tuff",
+    "type": "smooth",
+    "model": "smooth",
+    "crafting_material": "minecraft:tuff",
+    "strength": 6,
+    "hardness": 1.5,
+    "sound": "tuff"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Polished Bedrock",
+    "group": "bedrock",
+    "type": "polished",
+    "model": "polished",
+    "crafting_material": "minecraft:bedrock",
+    "strength": 3600000,
+    "hardness": -1,
+    "sound": "stone",
+    "variants": [
+        {
+            "id": "taken_for_granite:polished_bedrock_stairs",
+            "type": "stairs"
+        },
+        {
+            "id": "taken_for_granite:polished_bedrock_slab",
+            "type": "slab"
+        },
+        {
+            "id": "taken_for_granite:polished_bedrock_wall",
+            "type": "wall"
+        }
+    ]
+}

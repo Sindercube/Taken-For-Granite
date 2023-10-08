@@ -1,0 +1,10 @@
+{
+    "name": "Endstone Pillar",
+    "group": "endstone",
+    "type": "pillar",
+    "model": "pillar",
+    "crafting_material": "taken_for_granite:polished_endstone",
+    "strength": 9,
+    "hardness": 3,
+    "sound": "stone"
+}

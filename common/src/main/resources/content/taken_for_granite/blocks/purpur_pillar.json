@@ -1,0 +1,10 @@
+{
+    "name": "Purpur Pillar",
+    "group": "purpur",
+    "type": "pillar",
+    "model": "pillar",
+    "crafting_material": "taken_for_granite:polished_purpur",
+    "strength": 6,
+    "hardness": 1.5,
+    "sound": "stone"
+}

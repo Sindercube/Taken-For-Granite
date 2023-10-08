@@ -1,0 +1,20 @@
+{
+    "name": "Cut Blackstone",
+    "group": "blackstone",
+    "type": "cut",
+    "model": "cut",
+    "crafting_material": "taken_for_granite:polished_blackstone",
+    "strength": 6,
+    "hardness": 1.5,
+    "sound": "stone",
+    "variants": [
+        {
+            "id": "taken_for_granite:cut_blackstone_stairs",
+            "type": "stairs"
+        },
+        {
+            "id": "taken_for_granite:cut_blackstone_slab",
+            "type": "slab"
+        }
+    ]
+}

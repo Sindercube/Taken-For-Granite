@@ -1,0 +1,10 @@
+{
+    "name": "Prismarine Pillar",
+    "group": "prismarine",
+    "type": "pillar",
+    "model": "pillar",
+    "crafting_material": "taken_for_granite:polished_prismarine",
+    "strength": 6,
+    "hardness": 1.5,
+    "sound": "stone"
+}

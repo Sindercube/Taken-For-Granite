@@ -1,0 +1,10 @@
+{
+    "name": "Blackstone Pillar",
+    "group": "blackstone",
+    "type": "pillar",
+    "model": "pillar",
+    "crafting_material": "taken_for_granite:polished_blackstone",
+    "strength": 6,
+    "hardness": 1.5,
+    "sound": "stone"
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Calcite Tiles",
+    "group": "calcite",
+    "type": "tiles",
+    "model": "tiles",
+    "crafting_material": "taken_for_granite:calcite_bricks",
+    "strength": 0.75,
+    "hardness": 0.75,
+    "sound": "calcite",
+    "variants": [
+        {
+            "id": "taken_for_granite:cracked_calcite_tiles",
+            "type": "cracked"
+        },
+        {
+            "id": "taken_for_granite:calcite_tiles_stairs",
+            "type": "stairs"
+        },
+        {
+            "id": "taken_for_granite:calcite_tiles_slab",
+            "type": "slab"
+        },
+        {
+            "id": "taken_for_granite:calcite_tiles_wall",
+            "type": "wall"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Chiseled Prismarine",
+    "group": "prismarine",
+    "type": "chiseled",
+    "model": "chiseled",
+    "crafting_material": "taken_for_granite:polished_prismarine_slab",
+    "strength": 6,
+    "hardness": 1.5,
+    "sound": "stone"
+}

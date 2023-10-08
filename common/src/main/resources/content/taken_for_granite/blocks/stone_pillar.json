@@ -1,0 +1,10 @@
+{
+    "name": "Stone Pillar",
+    "group": "stone",
+    "type": "pillar",
+    "model": "pillar",
+    "crafting_material": "taken_for_granite:polished_stone",
+    "strength": 6,
+    "hardness": 1.5,
+    "sound": "stone"
+}

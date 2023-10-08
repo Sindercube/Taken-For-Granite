@@ -1,0 +1,10 @@
+{
+    "name": "Chiseled Granite",
+    "group": "granite",
+    "type": "chiseled",
+    "model": "chiseled",
+    "crafting_material": "taken_for_granite:polished_granite_slab",
+    "strength": 6,
+    "hardness": 1.5,
+    "sound": "stone"
+}

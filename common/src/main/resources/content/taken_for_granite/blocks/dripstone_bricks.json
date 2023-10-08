@@ -1,0 +1,28 @@
+{
+    "name": "Dripstone Bricks",
+    "group": "dripstone",
+    "type": "bricks",
+    "model": "bricks",
+    "crafting_material": "taken_for_granite:polished_dripstone",
+    "strength": 1,
+    "hardness": 1.5,
+    "sound": "dripstone_block",
+    "variants": [
+        {
+            "id": "taken_for_granite:cracked_dripstone_bricks",
+            "type": "cracked"
+        },
+        {
+            "id": "taken_for_granite:dripstone_brick_stairs",
+            "type": "stairs"
+        },
+        {
+            "id": "taken_for_granite:dripstone_brick_slab",
+            "type": "slab"
+        },
+        {
+            "id": "taken_for_granite:dripstone_brick_wall",
+            "type": "wall"
+        }
+    ]
+}

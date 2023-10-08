@@ -1,0 +1,28 @@
+{
+    "name": "Tuff Bricks",
+    "group": "tuff",
+    "type": "bricks",
+    "model": "bricks",
+    "crafting_material": "taken_for_granite:polished_tuff",
+    "strength": 6,
+    "hardness": 1.5,
+    "sound": "tuff",
+    "variants": [
+        {
+            "id": "taken_for_granite:cracked_tuff_bricks",
+            "type": "cracked"
+        },
+        {
+            "id": "taken_for_granite:tuff_brick_stairs",
+            "type": "stairs"
+        },
+        {
+            "id": "taken_for_granite:tuff_brick_slab",
+            "type": "slab"
+        },
+        {
+            "id": "taken_for_granite:tuff_brick_wall",
+            "type": "wall"
+        }
+    ]
+}

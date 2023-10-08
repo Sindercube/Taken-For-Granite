@@ -1,0 +1,10 @@
+{
+    "name": "Smooth Calcite",
+    "group": "calcite",
+    "type": "smooth",
+    "model": "smooth",
+    "crafting_material": "minecraft:calcite",
+    "strength": 0.75,
+    "hardness": 0.75,
+    "sound": "calcite"
+}

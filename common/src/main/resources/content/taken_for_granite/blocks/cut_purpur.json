@@ -1,0 +1,20 @@
+{
+    "name": "Cut Purpur",
+    "group": "purpur",
+    "type": "cut",
+    "model": "cut",
+    "crafting_material": "taken_for_granite:polished_purpur",
+    "strength": 6,
+    "hardness": 1.5,
+    "sound": "stone",
+    "variants": [
+        {
+            "id": "taken_for_granite:cut_purpur_stairs",
+            "type": "stairs"
+        },
+        {
+            "id": "taken_for_granite:cut_purpur_slab",
+            "type": "slab"
+        }
+    ]
+}

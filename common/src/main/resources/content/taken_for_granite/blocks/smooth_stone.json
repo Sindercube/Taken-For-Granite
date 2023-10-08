@@ -1,0 +1,10 @@
+{
+    "name": "Smooth Stone",
+    "group": "stone",
+    "type": "smooth",
+    "model": "smooth",
+    "crafting_material": "minecraft:stone",
+    "strength": 6,
+    "hardness": 1.5,
+    "sound": "stone"
+}

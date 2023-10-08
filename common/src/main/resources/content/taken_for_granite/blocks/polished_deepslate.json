@@ -1,0 +1,24 @@
+{
+    "name": "Polished Deepslate",
+    "group": "deepslate",
+    "type": "polished",
+    "model": "polished",
+    "crafting_material": "minecraft:deepslate",
+    "strength": 6,
+    "hardness": 3,
+    "sound": "deepslate",
+    "variants": [
+        {
+            "id": "taken_for_granite:polished_deepslate_stairs",
+            "type": "stairs"
+        },
+        {
+            "id": "taken_for_granite:polished_deepslate_slab",
+            "type": "slab"
+        },
+        {
+            "id": "taken_for_granite:polished_deepslate_wall",
+            "type": "wall"
+        }
+    ]
+}

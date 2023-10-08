@@ -1,0 +1,10 @@
+{
+    "name": "Smooth Packed Mud",
+    "group": "packed_mud",
+    "type": "smooth",
+    "model": "smooth",
+    "crafting_material": "minecraft:packed_mud",
+    "strength": 3,
+    "hardness": 1.5,
+    "sound": "packed_mud"
+}

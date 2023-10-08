@@ -1,0 +1,24 @@
+{
+    "name": "Polished Andesite",
+    "group": "andesite",
+    "type": "polished",
+    "model": "polished",
+    "crafting_material": "minecraft:andesite",
+    "strength": 6,
+    "hardness": 1.5,
+    "sound": "stone",
+    "variants": [
+        {
+            "id": "taken_for_granite:polished_andesite_stairs",
+            "type": "stairs"
+        },
+        {
+            "id": "taken_for_granite:polished_andesite_slab",
+            "type": "slab"
+        },
+        {
+            "id": "taken_for_granite:polished_andesite_wall",
+            "type": "wall"
+        }
+    ]
+}

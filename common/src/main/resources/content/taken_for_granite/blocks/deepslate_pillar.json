@@ -1,0 +1,10 @@
+{
+    "name": "Deepslate Pillar",
+    "group": "deepslate",
+    "type": "pillar",
+    "model": "pillar",
+    "crafting_material": "taken_for_granite:polished_deepslate",
+    "strength": 6,
+    "hardness": 3,
+    "sound": "deepslate"
+}

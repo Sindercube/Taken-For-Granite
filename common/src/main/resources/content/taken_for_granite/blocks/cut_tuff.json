@@ -1,0 +1,20 @@
+{
+    "name": "Cut Tuff",
+    "group": "tuff",
+    "type": "cut",
+    "model": "cut",
+    "crafting_material": "taken_for_granite:polished_tuff",
+    "strength": 6,
+    "hardness": 1.5,
+    "sound": "tuff",
+    "variants": [
+        {
+            "id": "taken_for_granite:cut_tuff_stairs",
+            "type": "stairs"
+        },
+        {
+            "id": "taken_for_granite:cut_tuff_slab",
+            "type": "slab"
+        }
+    ]
+}

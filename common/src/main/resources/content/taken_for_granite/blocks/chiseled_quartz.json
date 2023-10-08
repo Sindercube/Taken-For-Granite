@@ -1,0 +1,10 @@
+{
+    "name": "Chiseled Quartz",
+    "group": "quartz",
+    "type": "chiseled",
+    "model": "chiseled",
+    "crafting_material": "taken_for_granite:polished_quartz_slab",
+    "strength": 0.8,
+    "hardness": 0.8,
+    "sound": "stone"
+}

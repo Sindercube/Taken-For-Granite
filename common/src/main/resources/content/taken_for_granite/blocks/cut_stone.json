@@ -1,0 +1,20 @@
+{
+    "name": "Cut Stone",
+    "group": "stone",
+    "type": "cut",
+    "model": "cut",
+    "crafting_material": "taken_for_granite:polished_stone",
+    "strength": 6,
+    "hardness": 1.5,
+    "sound": "stone",
+    "variants": [
+        {
+            "id": "taken_for_granite:cut_stone_stairs",
+            "type": "stairs"
+        },
+        {
+            "id": "taken_for_granite:cut_stone_slab",
+            "type": "slab"
+        }
+    ]
+}

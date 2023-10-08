@@ -1,0 +1,10 @@
+{
+    "name": "Chiseled Bedrock",
+    "group": "bedrock",
+    "type": "chiseled",
+    "model": "chiseled",
+    "crafting_material": "taken_for_granite:polished_bedrock_slab",
+    "strength": 3600000,
+    "hardness": -1,
+    "sound": "stone"
+}

@@ -1,0 +1,4 @@
+- [gradle.properties](gradle.properties)
+- [fabric.mod.json](common/src/main/resources/fabric.mod.json)
+- [mods.toml](common/src/main/resources/META-INF/mods.toml)
+- [Constants.java](common/src/main/java/com/example/examplemod/Constants.java)

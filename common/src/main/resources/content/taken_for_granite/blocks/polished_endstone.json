@@ -1,0 +1,24 @@
+{
+    "name": "Polished Endstone",
+    "group": "endstone",
+    "type": "polished",
+    "model": "polished",
+    "crafting_material": "minecraft:endstone",
+    "strength": 9,
+    "hardness": 3,
+    "sound": "stone",
+    "variants": [
+        {
+            "id": "taken_for_granite:polished_endstone_stairs",
+            "type": "stairs"
+        },
+        {
+            "id": "taken_for_granite:polished_endstone_slab",
+            "type": "slab"
+        },
+        {
+            "id": "taken_for_granite:polished_endstone_wall",
+            "type": "wall"
+        }
+    ]
+}

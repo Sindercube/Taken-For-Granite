@@ -1,0 +1,20 @@
+{
+    "name": "Cut Prismarine",
+    "group": "prismarine",
+    "type": "cut",
+    "model": "cut",
+    "crafting_material": "taken_for_granite:polished_prismarine",
+    "strength": 6,
+    "hardness": 1.5,
+    "sound": "stone",
+    "variants": [
+        {
+            "id": "taken_for_granite:cut_prismarine_stairs",
+            "type": "stairs"
+        },
+        {
+            "id": "taken_for_granite:cut_prismarine_slab",
+            "type": "slab"
+        }
+    ]
+}

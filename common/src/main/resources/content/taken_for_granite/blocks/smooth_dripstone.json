@@ -1,0 +1,10 @@
+{
+    "name": "Smooth Dripstone",
+    "group": "dripstone",
+    "type": "smooth",
+    "model": "smooth",
+    "crafting_material": "minecraft:dripstone",
+    "strength": 1,
+    "hardness": 1.5,
+    "sound": "dripstone_block"
+}

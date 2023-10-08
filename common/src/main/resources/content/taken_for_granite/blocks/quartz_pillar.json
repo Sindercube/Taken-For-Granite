@@ -1,0 +1,10 @@
+{
+    "name": "Quartz Pillar",
+    "group": "quartz",
+    "type": "pillar",
+    "model": "pillar",
+    "crafting_material": "taken_for_granite:polished_quartz",
+    "strength": 0.8,
+    "hardness": 0.8,
+    "sound": "stone"
+}

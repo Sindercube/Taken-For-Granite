@@ -1,0 +1,10 @@
+{
+    "name": "Chiseled Calcite",
+    "group": "calcite",
+    "type": "chiseled",
+    "model": "chiseled",
+    "crafting_material": "taken_for_granite:polished_calcite_slab",
+    "strength": 0.75,
+    "hardness": 0.75,
+    "sound": "calcite"
+}

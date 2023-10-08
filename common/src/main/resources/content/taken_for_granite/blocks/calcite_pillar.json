@@ -1,0 +1,10 @@
+{
+    "name": "Calcite Pillar",
+    "group": "calcite",
+    "type": "pillar",
+    "model": "pillar",
+    "crafting_material": "taken_for_granite:polished_calcite",
+    "strength": 0.75,
+    "hardness": 0.75,
+    "sound": "calcite"
+}

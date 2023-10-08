@@ -1,0 +1,20 @@
+{
+    "name": "Cut Calcite",
+    "group": "calcite",
+    "type": "cut",
+    "model": "cut",
+    "crafting_material": "taken_for_granite:polished_calcite",
+    "strength": 0.75,
+    "hardness": 0.75,
+    "sound": "calcite",
+    "variants": [
+        {
+            "id": "taken_for_granite:cut_calcite_stairs",
+            "type": "stairs"
+        },
+        {
+            "id": "taken_for_granite:cut_calcite_slab",
+            "type": "slab"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Polished Packed Mud",
+    "group": "packed_mud",
+    "type": "polished",
+    "model": "polished",
+    "crafting_material": "minecraft:packed_mud",
+    "strength": 3,
+    "hardness": 1.5,
+    "sound": "packed_mud",
+    "variants": [
+        {
+            "id": "taken_for_granite:polished_packed_mud_stairs",
+            "type": "stairs"
+        },
+        {
+            "id": "taken_for_granite:polished_packed_mud_slab",
+            "type": "slab"
+        },
+        {
+            "id": "taken_for_granite:polished_packed_mud_wall",
+            "type": "wall"
+        }
+    ]
+}

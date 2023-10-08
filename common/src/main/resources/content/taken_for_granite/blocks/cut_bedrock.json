@@ -1,0 +1,20 @@
+{
+    "name": "Cut Bedrock",
+    "group": "bedrock",
+    "type": "cut",
+    "model": "cut",
+    "crafting_material": "taken_for_granite:polished_bedrock",
+    "strength": 3600000,
+    "hardness": -1,
+    "sound": "stone",
+    "variants": [
+        {
+            "id": "taken_for_granite:cut_bedrock_stairs",
+            "type": "stairs"
+        },
+        {
+            "id": "taken_for_granite:cut_bedrock_slab",
+            "type": "slab"
+        }
+    ]
+}

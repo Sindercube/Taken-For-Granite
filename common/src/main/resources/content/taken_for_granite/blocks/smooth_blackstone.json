@@ -1,0 +1,10 @@
+{
+    "name": "Smooth Blackstone",
+    "group": "blackstone",
+    "type": "smooth",
+    "model": "smooth",
+    "crafting_material": "minecraft:blackstone",
+    "strength": 6,
+    "hardness": 1.5,
+    "sound": "stone"
+}

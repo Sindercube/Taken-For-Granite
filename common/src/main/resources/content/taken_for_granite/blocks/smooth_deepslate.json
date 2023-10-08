@@ -1,0 +1,10 @@
+{
+    "name": "Smooth Deepslate",
+    "group": "deepslate",
+    "type": "smooth",
+    "model": "smooth",
+    "crafting_material": "minecraft:deepslate",
+    "strength": 6,
+    "hardness": 3,
+    "sound": "deepslate"
+}

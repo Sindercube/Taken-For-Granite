@@ -1,0 +1,10 @@
+{
+    "name": "Smooth Red Sandstone",
+    "group": "red_sandstone",
+    "type": "smooth",
+    "model": "smooth",
+    "crafting_material": "minecraft:red_sandstone",
+    "strength": 0.8,
+    "hardness": 0.8,
+    "sound": "stone"
+}

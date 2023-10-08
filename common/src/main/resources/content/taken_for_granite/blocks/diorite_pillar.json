@@ -1,0 +1,10 @@
+{
+    "name": "Diorite Pillar",
+    "group": "diorite",
+    "type": "pillar",
+    "model": "pillar",
+    "crafting_material": "taken_for_granite:polished_diorite",
+    "strength": 6,
+    "hardness": 1.5,
+    "sound": "stone"
+}

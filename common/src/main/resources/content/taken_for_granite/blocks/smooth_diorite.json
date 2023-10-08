@@ -1,0 +1,10 @@
+{
+    "name": "Smooth Diorite",
+    "group": "diorite",
+    "type": "smooth",
+    "model": "smooth",
+    "crafting_material": "minecraft:diorite",
+    "strength": 6,
+    "hardness": 1.5,
+    "sound": "stone"
+}

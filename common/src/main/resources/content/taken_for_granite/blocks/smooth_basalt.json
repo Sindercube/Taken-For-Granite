@@ -1,0 +1,10 @@
+{
+    "name": "Smooth Basalt",
+    "group": "basalt",
+    "type": "smooth",
+    "model": "smooth",
+    "crafting_material": "minecraft:basalt",
+    "strength": 4.2,
+    "hardness": 1.25,
+    "sound": "basalt"
+}

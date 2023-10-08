@@ -1,0 +1,10 @@
+{
+    "name": "Chiseled Packed Mud",
+    "group": "packed_mud",
+    "type": "chiseled",
+    "model": "chiseled",
+    "crafting_material": "taken_for_granite:polished_packed_mud_slab",
+    "strength": 3,
+    "hardness": 1.5,
+    "sound": "packed_mud"
+}

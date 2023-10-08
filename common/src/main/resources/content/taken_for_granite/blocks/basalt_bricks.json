@@ -1,0 +1,28 @@
+{
+    "name": "Basalt Bricks",
+    "group": "basalt",
+    "type": "bricks",
+    "model": "bricks",
+    "crafting_material": "taken_for_granite:polished_basalt",
+    "strength": 4.2,
+    "hardness": 1.25,
+    "sound": "basalt",
+    "variants": [
+        {
+            "id": "taken_for_granite:cracked_basalt_bricks",
+            "type": "cracked"
+        },
+        {
+            "id": "taken_for_granite:basalt_brick_stairs",
+            "type": "stairs"
+        },
+        {
+            "id": "taken_for_granite:basalt_brick_slab",
+            "type": "slab"
+        },
+        {
+            "id": "taken_for_granite:basalt_brick_wall",
+            "type": "wall"
+        }
+    ]
+}

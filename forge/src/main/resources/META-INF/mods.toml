@@ -1,0 +1,26 @@
+modLoader = "javafml"
+loaderVersion = "[47,)"
+license = "C0-1.0"
+
+[[mods]]
+modId = "taken_for_granite"
+version = "${mod_version}"
+displayName = "Taken For Granite"
+logoFile = "../../../../../common/src/main/resources/assets/taken_for_granite/icon.png"
+authors = "Sindercube"
+description = '''
+W.I.P.
+'''
+
+[[dependencies.taken_for_granite]]
+modId = "forge"
+mandatory = true
+versionRange = "[47,)"
+ordering = "NONE"
+side = "BOTH"
+[[dependencies.taken_for_granite]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.20,1.21)"
+ordering = "NONE"
+side = "BOTH"

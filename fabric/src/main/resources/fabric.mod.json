@@ -1,0 +1,31 @@
+{
+    "schemaVersion": 1,
+    "id": "taken_for_granite",
+    "version": "${mod_version}",
+    "name": "Taken For Granite",
+    "description": "W.I.P.",
+    "authors": [
+        "Sindercube"
+    ],
+    "contact": {
+        "homepage": "https://fabricmc.net/",
+        "sources": "https://github.com/FabricMC/fabric-example-mod"
+    },
+    "license": "CC0-1.0",
+    "icon": "assets/taken_for_granite/icon.png",
+    "environment": "*",
+    "entrypoints": {
+        "main": [ "com.sindercube.takenForGranite.TFGFabric" ],
+        "client": [ "com.sindercube.takenForGranite.TFGFabricClient" ],
+        "fabric-datagen": [ "com.sindercube.takenForGranite.TFGFabricDatagen" ]
+    },
+    "mixins": [
+      "taken_for_granite.mixins.json",
+      "taken_for_granite.mixins-fabric.json"
+    ],
+    "depends": {
+        "fabric": "*",
+        "minecraft": "1.20.x"
+    }
+}
+  
